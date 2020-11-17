@@ -1,0 +1,36 @@
+/* Class = "NSMenuItem"; title = "Remove All Jobs"; ObjectID = "5AR-we-iHC"; */
+"5AR-we-iHC.title" = "すべてのタスクを削除";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "5Rl-P0-bhc"; */
+"5Rl-P0-bhc.title" = "テーブルビューセル";
+
+/* Class = "NSMenuItem"; title = "Show Destination in Finder"; ObjectID = "c1Z-ZC-b8b"; */
+"c1Z-ZC-b8b.title" = "Finderに目的地を表示";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "DTF-om-j0l"; */
+"DTF-om-j0l.title" = "編集";
+
+/* Class = "NSTextFieldCell"; title = "Encoding status"; ObjectID = "eEU-Dr-Qh8"; */
+"eEU-Dr-Qh8.title" = "エンコード状態";
+
+/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "egD-8R-PTJ"; */
+"egD-8R-PTJ.title" = "削除する";
+
+/* Class = "NSMenuItem"; title = "Remove Completed Jobs"; ObjectID = "gNj-D1-wa7"; */
+"gNj-D1-wa7.title" = "完了したタスクを削除する";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "K6c-HW-um8"; */
+"K6c-HW-um8.title" = "テキストセル";
+
+/* Class = "NSMenuItem"; title = "Show Source in Finder"; ObjectID = "Pps-jm-zcd"; */
+"Pps-jm-zcd.title" = "Finderにソースファイルの場所を表示する";
+
+/* Class = "NSMenuItem"; title = "Reset"; ObjectID = "xMs-43-lL0"; */
+"xMs-43-lL0.title" = "リセット";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "xSd-Hl-5Qk"; */
+"xSd-Hl-5Qk.title" = "テーブルビューセル";
+
+/* Class = "NSMenuItem"; title = "Show Activity Log in Finder"; ObjectID = "zA7-r8-i4L"; */
+"zA7-r8-i4L.title" = "Finderでアクティビティログを表示する";
+

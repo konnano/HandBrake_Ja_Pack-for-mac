@@ -1,0 +1,21 @@
+/* Class = "NSWindow"; title = "Activity"; ObjectID = "5"; */
+"5.title" = "アクティビティ";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "11"; */
+"11.title" = "メニュー";
+
+/* Class = "NSMenuItem"; title = "Clear Window Contents"; ObjectID = "12"; */
+"12.title" = "ウィンドウの内容をクリア";
+
+/* Class = "NSMenuItem"; title = "Copy Window Contents"; ObjectID = "24"; */
+"24.title" = "ウィンドウの内容をコピーする";
+
+/* Class = "NSMenuItem"; title = "Open Activity Log For This Session In Default Application"; ObjectID = "33"; */
+"33.title" = "デフォルトセッションでこのセッションのログフォルダを開きます";
+
+/* Class = "NSMenuItem"; title = "Clear Activity Log For This Session"; ObjectID = "35"; */
+"35.title" = "このセッションのアクティビティログをクリーンアップします";
+
+/* Class = "NSMenuItem"; title = "Open Activity Logs Directory In Finder"; ObjectID = "43"; */
+"43.title" = "Finderでログフォルダを開きます";
+

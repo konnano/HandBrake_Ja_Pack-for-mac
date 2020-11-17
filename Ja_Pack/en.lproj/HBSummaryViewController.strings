@@ -1,0 +1,57 @@
+/* Class = "NSTextFieldCell"; title = "Tracks:"; ObjectID = "3mF-Bb-Gon"; */
+"3mF-Bb-Gon.title" = "トラック :";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "B4a-co-0ly"; */
+"B4a-co-0ly.title" = "カット :";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Filters summary"; ObjectID = "BHq-Mt-3eA"; */
+"BHq-Mt-3eA.ibExternalAccessibilityDescription" = "フィルターのまとめ";
+
+/* Class = "NSButtonCell"; title = "Align A/V Start"; ObjectID = "De0-Je-MAm"; */
+"De0-Je-MAm.title" = "オーディオ/ビデオ開始の調整";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Aligns the initial timestamps of all audio and video streams by inserting blank frames or dropping frames. May improve audio/video sync for broken players that do not honor MP4 edit lists."; ObjectID = "fPv-Vw-I89"; */
+"fPv-Vw-I89.ibShadowedToolTip" = "空の画像を挿入するか、画像を削除することにより、すべてのオーディオおよびビデオストリームのタイムスタンプを揃えます。 MP4編集リストに違反する壊れたプレーヤーのオーディオ/ビデオ同期を改善できます.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Size summary"; ObjectID = "Jaw-pH-rhf"; */
+"Jaw-pH-rhf.ibExternalAccessibilityDescription" = "まとめサイズ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Optimize MP4 for progressive download. After encoding, data is reorganized and rewritten to allow immediate playback over a network, without needing to download the entire file."; ObjectID = "lUi-Oc-208"; */
+"lUi-Oc-208.ibShadowedToolTip" = "プログレッシブダウンロード用にMP4を最適化します。 エンコード後、ファイル全体をダウンロードしなくても、ネットワーク経由ですぐに再生できるようにデータが再配置および再書き込みされます.";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Preview"; ObjectID = "m5a-0z-QQ4"; */
+"m5a-0z-QQ4.ibExternalAccessibilityDescription" = "プレビュー";
+
+/* Class = "NSTextFieldCell"; title = "Filters:"; ObjectID = "OCw-f6-uA0"; */
+"OCw-f6-uA0.title" = "フィルター :";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Q1Z-yT-7iY"; */
+"Q1Z-yT-7iY.title" = "その他";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add a special MP4 marker to allow playback on vintage iPod 5th Generation devices circa 2006. Other settings may affect compatibility."; ObjectID = "QKv-GR-d2g"; */
+"QKv-GR-d2g.ibShadowedToolTip" = "2006年以降の古い第5世代iPodで再生するための特別なMP4タグを追加します。他の設定は互換性に影響する可能性があります.";
+
+/* Class = "NSTextFieldCell"; title = "None"; ObjectID = "RIB-ME-Yhh"; */
+"RIB-ME-Yhh.title" = "選択";
+
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "RXJ-DZ-4mh"; */
+"RXJ-DZ-4mh.title" = "フォーマット :";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Container format. Video, audio, and other tracks are combined into a single file of this type. Affects compatibility."; ObjectID = "txV-1R-WoD"; */
+"txV-1R-WoD.ibShadowedToolTip" = "コンテナ形式。 ビデオ、オーディオ、その他のトラックは、このタイプの1つのファイルに結合されます。 互換性に影響します.";
+
+/* Class = "NSButtonCell"; title = "Web Optimized"; ObjectID = "wcc-5d-Dgj"; */
+"wcc-5d-Dgj.title" = "ウェブ向けに最適化";
+
+/* Class = "NSTextFieldCell"; title = "None"; ObjectID = "xmy-Jl-mR4"; */
+"xmy-Jl-mR4.title" = "選択";
+
+/* Class = "NSTextFieldCell"; title = "None"; ObjectID = "xzc-qg-AMn"; */
+"xzc-qg-AMn.title" = "選択";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Tracks summary"; ObjectID = "yRE-5c-FhX"; */
+"yRE-5c-FhX.ibExternalAccessibilityDescription" = "トラックの概要";
+
+/* Class = "NSButtonCell"; title = "iPod 5G Support"; ObjectID = "zz5-qY-GSA"; */
+"zz5-qY-GSA.title" = "iPod 5Gのサポート";
+

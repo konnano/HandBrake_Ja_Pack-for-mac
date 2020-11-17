@@ -1,0 +1,129 @@
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "auto"; ObjectID = "4Hq-BG-Ulb"; */
+"4Hq-BG-Ulb.ibShadowedIsNilPlaceholder" = "自動";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "6Cs-jo-8Q6"; */
+"6Cs-jo-8Q6.title" = "その他";
+
+/* Class = "NSButtonCell"; title = "Constant Framerate"; ObjectID = "6Dd-IP-Pwt"; */
+"6Dd-IP-Pwt.title" = "一定のフレームレート";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Video encoder level. Sets and ensures compliance with the specified video compression standard level. Overrides all other settings."; ObjectID = "8CM-4G-oId"; */
+"8CM-4G-oId.ibShadowedToolTip" = "ビデオエンコーダレベル。 ビデオ圧縮の指定された標準レベルへの準拠を定義して保証します。 他のすべての設定を上書きします.";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Framerate (Frames Per Second). Number of pictures displayed during each second of video."; ObjectID = "9tc-EO-QMd"; */
+"9tc-EO-QMd.ibShadowedToolTip" = "フレームレート（フレーム/秒）。 ビデオの1秒間に表示されるフレームの数.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Average Bitrate varies quality to ensure the data rate remains relatively consistent throughout the video."; ObjectID = "A3o-Zx-OfM"; */
+"A3o-Zx-OfM.ibShadowedToolTip" = "平均ビットレートは品質によって異なり、ビデオ全体でデータレートが比較的一定に保たれるようにします.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Aes-nP-7qS"; */
+"Aes-nP-7qS.title" = "その他";
+
+/* Class = "NSButton"; ibShadowedToolTip = "2-pass encoding analyzes the entire source video before encoding. The information gathered enables the encoder to make more informed decisions about quality and data rate in Average Bitrate mode."; ObjectID = "bnV-aE-FVh"; */
+"bnV-aE-FVh.ibShadowedToolTip" = "ダブルパスエンコーディングは、エンコーディング前にビデオソースを完全に分析します。 収集された情報により、エンコーダは中程度のビットレートモードで品質とビットレートを微調整できます。.";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "bvD-W7-O0N"; */
+"bvD-W7-O0N.title" = "0";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "0"; ObjectID = "c27-4i-SiJ"; */
+"c27-4i-SiJ.ibShadowedIsNilPlaceholder" = "0";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "0"; ObjectID = "c27-4i-SiJ"; */
+"c27-4i-SiJ.ibShadowedNotApplicablePlaceholder" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Unparse:"; ObjectID = "CLk-dp-1b7"; */
+"CLk-dp-1b7.title" = "分析されてません :";
+
+/* Class = "NSTextFieldCell"; title = "Encoder Options:"; ObjectID = "cRF-pz-1jt"; */
+"cRF-pz-1jt.title" = "エンコーダオプション :";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "auto"; ObjectID = "CRz-On-Jen"; */
+"CRz-On-Jen.ibShadowedIsNilPlaceholder" = "自動";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Video encoder tune. Further adjusts encoder preset to optimize settings for specific scenarios."; ObjectID = "cXd-X7-OhB"; */
+"cXd-X7-OhB.ibShadowedToolTip" = "ビデオエンコーディングを調整します。 エンコーダープリセットを調整して、設定を特定のシナリオに合わせる.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Displays all internal video encoder options."; ObjectID = "dwn-bf-Ua0"; */
+"dwn-bf-Ua0.ibShadowedToolTip" = "内部ビデオエンコーダーのすべてのオプションを表示します.";
+
+/* Class = "NSButtonCell"; title = "Fast Decode"; ObjectID = "EcY-w1-bc8"; */
+"EcY-w1-bc8.title" = "高速デコード";
+
+/* Class = "NSTextFieldCell"; title = "Quality:"; ObjectID = "F3s-qR-qeE"; */
+"F3s-qR-qeE.title" = "品質 :";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Video encoder preset. Adjusts encoder settings to balance compression efficiency and encoding speed. Slower encoder presets may use settings that are less compatible with certain devices."; ObjectID = "fue-2d-Bjn"; */
+"fue-2d-Bjn.ibShadowedToolTip" = "プリセットビデオエンコーダ。 エンコーダ設定を調整して、圧縮効率とエンコード速度のバランスをとります。 遅いエンコーダプリセットは、一部のデバイスとの互換性が低い設定を使用する場合があります. ";
+
+/* Class = "NSTextFieldCell"; title = "Tune:"; ObjectID = "fzT-im-zKN"; */
+"fzT-im-zKN.title" = "調整する :";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Additional video encoder options. For advanced use only.\n\nSyntax: option-1=foo:opt2=bar"; ObjectID = "gEp-lv-YUY"; */
+"gEp-lv-YUY.ibShadowedToolTip" = "追加のビデオエンコーダオプション。 高度な使用のみ。 \ n \ n構文：option-1 = foo：opt2 = bar";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "gIJ-Xs-uVF"; */
+"gIJ-Xs-uVF.title" = "その他";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Constant Quality varies bitrate to ensure visual quality remains relatively consistent throughout the video.\n\nAdjust the quality slider to the right to increase quality or to the left to decrease quality, in small increments of plus or minus 1-2.\n\nRecommended values for the x264 and x265 encoders are RF 18-28. Higher quality settings may produce extremely large files.\n\nx264 is lossless at RF 0."; ObjectID = "GPu-Ht-bKg"; */
+"GPu-Ht-bKg.ibShadowedToolTip" = "\"一定の品質\"ビデオ全体で視覚的な品質が一定に保たれるようにビットレートを変化させます。\N \n品質スライダを右に調整すると品質が向上し、左に調整すると品質が向上し、少しずつ増加します プラスまたはマイナス1-2の増分。\n \nx264およびx265エンコーダの推奨値はRF 18-28です。品質を高く設定すると、非常に大きなファイルが生成される可能性があります。\n \n品質0.1に設定 x264エンコーディングはロストレスです.";
+
+/* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "Hho-GY-qOR"; */
+"Hho-GY-qOR.title" = "プロファイル :";
+
+/* Class = "NSTextFieldCell"; title = "Additional Options:"; ObjectID = "ja7-Zr-y1P"; */
+"ja7-Zr-y1P.title" = "追加オプション :";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Jj0-Qw-HF8"; */
+"Jj0-Qw-HF8.title" = "その他";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Video encoder profile. Sets and ensures compliance with the specified video compression standard profile. Overrides all other settings."; ObjectID = "kh8-d2-hSD"; */
+"kh8-d2-hSD.ibShadowedToolTip" = "ビデオエンコーディングプロファイル。 標準のビデオ圧縮プロファイルとの互換性を設定および保証します。 他の設定をキャンセルします.";
+
+/* Class = "NSTextFieldCell"; title = "Encoder Options:"; ObjectID = "kPs-u2-fDn"; */
+"kPs-u2-fDn.title" = "エンコダーオプション :";
+
+/* Class = "NSTextFieldCell"; title = "Video Encoder:"; ObjectID = "Mrb-6Q-0YM"; */
+"Mrb-6Q-0YM.title" = "ビデオエンコーダー :";
+
+/* Class = "NSButtonCell"; title = "2-pass encoding"; ObjectID = "nPA-nO-Eik"; */
+"nPA-nO-Eik.title" = "2パスエンコーディング";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Turbo first pass speeds up the first pass of a 2-pass encode for a slight penalty to analysis."; ObjectID = "olm-zg-k9Y"; */
+"olm-zg-k9Y.ibShadowedToolTip" = "ターボの最初のパスは、わずかな解析ペナルティのために2パスエンコーディングの最初のパスを高速化します. ";
+
+/* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "QWu-rv-zfM"; */
+"QWu-rv-zfM.title" = "プリセット :";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Additional video encoder options. For advanced use only.\n\nSyntax: option-1=foo:opt2=bar,baz"; ObjectID = "rbo-w6-ENd"; */
+"rbo-w6-ENd.ibShadowedToolTip" = "追加のビデオエンコーディングオプション。 高度な使用のみ。\N \n構文：option-1 = foo：opt2 = bar、baz";
+
+/* Class = "NSTextFieldCell"; title = "RF:"; ObjectID = "rRB-9F-pHn"; */
+"rRB-9F-pHn.title" = "RF :";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "rXn-NC-pEv"; */
+"rXn-NC-pEv.title" = "その他";
+
+/* Class = "NSTextFieldCell"; title = "Framerate (FPS):"; ObjectID = "SJc-tv-AMH"; */
+"SJc-tv-AMH.title" = "フレームレート（IPS） :";
+
+/* Class = "NSTextFieldCell"; title = "Level:"; ObjectID = "sTM-lk-DBC"; */
+"sTM-lk-DBC.title" = "レベル :";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Fast Decode uses settings that reduce CPU usage during playback of the encoded video. Useful for devices that struggle to play video without stuttering."; ObjectID = "stU-Fo-Avu"; */
+"stU-Fo-Avu.ibShadowedToolTip" = "高速デコードでは、エンコードされたビデオの再生時にCPU使用率を低減する設定を使用します。 遅れなくビデオを再生するのに苦労しているデバイスに便利です. ";
+
+/* Class = "NSButtonCell"; title = "Average Bitrate (kbps):"; ObjectID = "VQe-CK-YDR"; */
+"VQe-CK-YDR.title" = "平均ビットレート（kbps） :";
+
+/* Class = "NSButtonCell"; title = "Turbo first pass"; ObjectID = "vSc-VB-NEv"; */
+"vSc-VB-NEv.title" = "最初のターボパス";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Video encoder. Determines video type and settings used during encoding."; ObjectID = "xwK-Yu-a1e"; */
+"xwK-Yu-a1e.ibShadowedToolTip" = "ビデオエンコーダー。 ビデオのタイプとエンコード中に使用される設定を決定します.";
+
+/* Class = "NSButtonCell"; title = "Constant Quality"; ObjectID = "ZjL-cY-O5f"; */
+"ZjL-cY-O5f.title" = "一貫した品質";
+
+/* Class = "NSButtonCell"; title = "Variable Framerate"; ObjectID = "zZo-75-1WG"; */
+"zZo-75-1WG.title" = "可変フレームレート";
+

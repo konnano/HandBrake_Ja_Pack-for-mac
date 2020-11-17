@@ -1,0 +1,45 @@
+/* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "4XY-C0-SwE"; */
+"4XY-C0-SwE.headerCell.title" = "題名";
+
+/* Class = "NSTextFieldCell"; title = "Select the titles to add to the queue:"; ObjectID = "5tD-fg-g4t"; */
+"5tD-fg-g4t.title" = "キューに追加するタイトルを選択してください :";
+
+/* Class = "NSTableColumn"; headerCell.title = "Duration"; ObjectID = "a6r-ky-REh"; */
+"a6r-ky-REh.headerCell.title" = "時間";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "dsG-Ho-vsT"; */
+"dsG-Ho-vsT.title" = "テーブルセルの表示 ";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "ウィンドウ";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Fcv-FE-8Fv"; */
+"Fcv-FE-8Fv.title" = "テキストセル";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "FQY-Ye-g0f"; */
+"FQY-Ye-g0f.headerCell.title" = "タイトル";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "hQc-RA-phB"; */
+"hQc-RA-phB.title" = "0";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "jHg-nh-9NJ"; */
+"jHg-nh-9NJ.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "JqJ-5C-Yhw"; */
+"JqJ-5C-Yhw.title" = "チェック";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "k84-a6-eZ7"; */
+"k84-a6-eZ7.title" = "チェック";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "mOe-XL-tl1"; */
+"mOe-XL-tl1.title" = "追加";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "PXF-7D-BKR"; */
+"PXF-7D-BKR.title" = "すべての選択を解除";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@"; ObjectID = "xTt-zi-wf0"; */
+"xTt-zi-wf0.ibShadowedDisplayPattern" = "キューに追加するタイトルを選択してください";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zwi-rc-q6x"; */
+"zwi-rc-q6x.title" = "テキストセル";
+

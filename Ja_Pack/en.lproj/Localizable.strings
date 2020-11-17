@@ -1,0 +1,472 @@
+/* Preview -> size info label */
+" Scaled To Screen" = "画面スケール";
+
+/* No comment provided by engineer. */
+"- --:--" = "- --:--";
+
+/* No comment provided by engineer. */
+"--:--" = "--:--";
+
+/* Preview -> size info label */
+"(%.0f%% actual size)" = "（％.0f %% 実際のサイズ）";
+
+/* Preview -> size info label */
+"(Actual size)" = "（フルサイズ）";
+
+/* Main Window -> preset modified */
+"(Modified)" = "（修正）";
+
+/* Queue status */
+"%d encode pending" = "%d 保留中のタスク";
+
+/* Queue status */
+"%d encodes pending" = "%d 保留中のタスク";
+
+/* No comment provided by engineer. */
+"%llu jobs selected" = "％llu 選択したタスク";
+
+/* Destination same as source alert -> message
+   File already exists alert -> message */
+"A file already exists at the selected destination." = "選択した先にファイルがすでに存在します.";
+
+/* Picture HUD -> scale button */
+"Actual Scale" = "実際の規模";
+
+/* Queue undo action name */
+"Add Job To Queue" = "キューにファイルを追加する";
+
+/* Queue undo action name */
+"Add Jobs To Queue" = "キューにファイルを追加する";
+
+/* Touch bar */
+"Add Preset" = "プリセットを追加する";
+
+/* Touch bar */
+"Add Titles To Queue" = "キューにタイトルを追加する";
+
+/* Touch bar */
+"Add To Queue" = "キューに追加する";
+
+/* Preferences Advanced Toolbar Item */
+"Advanced" = "上級";
+
+/* Delete preset alert -> message */
+"Are you sure you want to permanently delete the selected preset?" = "選択したプリセットを完全に削除してもよろしいですか？";
+
+/* Quit Alert -> message */
+"Are you sure you want to quit HandBrake?" = "HandBrakeを終了してもよろしいですか？";
+
+/* Copy Protection Alert -> first button */
+"Attempt Scan Anyway" = "スキャンしてみてください";
+
+/* Player HUD -> audio menu */
+"Audio" = "オーデイオ";
+
+/* Copy Protection Alert -> second button
+   Delete preset alert -> second button
+   File already exists alert -> first button
+   File already exists in queue alert -> first button
+   Preview -> live preview alert alternate button
+   Touch bar */
+"Cancel" = "キャンセル";
+
+/* Touch bar */
+"Cancel Encoding" = "エンコードをキャンセル";
+
+/* Toolbar Open/Cancel Item
+   Touch bar */
+"Cancel Scan" = "スキャンをキャンセル";
+
+/* Toolbar Open/Cancel Item */
+"Cancel Scanning Source" = "ソース分析をキャンセル";
+
+/* Preferences -> Output Name Token */
+"Chapters" = "チャプター";
+
+/* Main Window -> Destination open panel */
+"Choose" = "選ぶ";
+
+/* Queue Alert -> cancel rip first button */
+"Continue Encoding" = "エンコードを続行";
+
+/* Copy Protection Alert -> message */
+"Copy-Protected sources are not supported." = "コピー保護されたソースはサポートされていません.";
+
+/* Preferences -> Output Name Token */
+"Creation-Date" = "作成日";
+
+/* Preferences -> Output Name Token */
+"Creation-Time" = "作成時間";
+
+/* Touch bar */
+"Current Time" = "実際の時間";
+
+/* Add preset window -> picture setting */
+"Custom" = "カスタム";
+
+/* Preferences -> Output Name Token */
+"Date" = "日付";
+
+/* Delete preset alert -> first button */
+"Delete Preset" = "プリセットをクリア";
+
+/* File already exists alert -> informative text
+   File already exists in queue alert -> informative text */
+"Do you want to overwrite %@?" = "置き換えますか %@?";
+
+/* Quit Alert -> second button */
+"Don't Quit" = "終了しないでください";
+
+/* Touch bar */
+"Done" = "完了";
+
+/* HBQueueItemView -> Encode state accessibility label */
+"Encode canceled" = "エンコードが中断されました";
+
+/* Queue status */
+"Encode Canceled." = "エンコードが中断されました.";
+
+/* HBQueueItemView -> Encode state accessibility label */
+"Encode complete" = "エンコードが完了しました";
+
+/* HBQueueItemView -> Encode state accessibility label
+   Queue done notification failed message */
+"Encode failed" = "エンコードに失敗しました";
+
+/* Queue status */
+"Encode Failed." = "エンコードに失敗しました";
+
+/* Queue status */
+"Encode Finished." = "エンコードが完了しました.";
+
+/* HBQueueItemView -> Encode state accessibility label */
+"Encode ready" = "エンコードする準備ができました";
+
+/* HBQueueItemView -> Encode state accessibility label */
+"Encode working" = "エンコード中";
+
+/* No comment provided by engineer. */
+"Encoding %@\n%@" = "エンコード %1$@\n%2$@";
+
+/* Job statistics */
+"Ended at:" = "終了: ";
+
+/* Export presets save panel title */
+"Export presets" = "プリセットをエクスポートする";
+
+/* File already exists alert -> message */
+"File already exists." = "ファイルが既に存在します.";
+
+/* Preferences General Toolbar Item */
+"General" = "一般的";
+
+/* Main Window -> title */
+"HandBrake" = "HandBrake";
+
+/* Preview -> live preview alert message */
+"HandBrake can't open the preview." = "HandBrakeがプレビューを開けません";
+
+/* Preview -> live preview alert informative text */
+"HandBrake can't playback this combination of video/audio/container format. Do you want to open it in an external player?" = "HandBrakeはこのビデオ/オーディオ/コンテナ形式の組み合わせを再生できません。 外付けドライブで開きますか？";
+
+/* Quit Alert -> informative text */
+"If you quit HandBrake your current encode will be reloaded into your queue at next launch. Do you want to quit anyway?" = "HandBrakeを終了すると、現在のエンコーディングは次回の起動時にキューに入れられます。 とにかく終了しますか？";
+
+/* Import preset open panel title */
+"Import presets" = "プリセットをインポート";
+
+/* Chapters import -> invalid CSV line count description */
+"Incorrect line count" = "行数が正しくありません";
+
+/* Chapters import -> invalid CSV description */
+"Invalid chapters CSV file" = "無効なCSVチャプターファイル";
+
+/* Queue Edit Alert -> stop and edit first button
+   Queue Stop Alert -> stop and remove first button */
+"Keep Encoding" = "エンコードを続行";
+
+/* Touch bar */
+"Live Preview" = "インスタントプレビュー";
+
+/* Queue undo action name */
+"Move Job in Queue" = "タスクをキューに移動する";
+
+/* Queue undo action name */
+"Move Jobs in Queue" = "タスクをキューに移動する";
+
+/* Preview -> accessibility label */
+"No image" = "写真なし";
+
+/* No comment provided by engineer. */
+"No job selected" = "タスクが選択されていません";
+
+/* Main Window -> Info text */
+"No Valid Source Found" = "有効なソースが見つかりません";
+
+/* Add preset window -> picture setting */
+"None" = "選択";
+
+/* Queue Done Alert -> shut down first button
+   Queue Done Alert -> sleep first button */
+"OK" = "OK";
+
+/* File already exists alert -> informative text */
+"One or more file already exists. Do you want to overwrite?" = "1つ以上のファイルが既に存在します。 それらを置き換えますか？";
+
+/* Preview -> live preview alert default button */
+"Open in external player" = "外付けドライブで開く";
+
+/* Toolbar Open/Cancel Item
+   Touch bar */
+"Open Source" = "ソースを開く";
+
+/* File already exists alert -> second button
+   File already exists in queue alert -> second button */
+"Overwrite" = "交換する";
+
+/* Toolbar Pause Item */
+"Pause" = "一時停止";
+
+/* Queue -> pause/resume menu
+   Toolbar Pause Item
+   Touch bar */
+"Pause Encoding" = "エンコードを一時停止";
+
+/* Touch bar */
+"Pause/Resume Encoding" = "エンコードの一時停止/再開";
+
+/* Job statistics */
+"Paused time:" = "休憩時間 :";
+
+/* Video -> Framerate */
+"Peak Framerate (VFR)" = "ピーク周波数（VFR）";
+
+/* Touch bar */
+"Play/Pause" = "再生/一時停止";
+
+/* Add preset window -> name alert informative text
+   Rename preset window -> name alert informative text */
+"Please enter a name." = "名前を入力してください.";
+
+/* Copy Protection Alert -> informative text */
+"Please note that HandBrake does not support the removal of copy-protection from DVD Discs. You can if you wish use any other 3rd party software for this function. This warning will be shown only once each time HandBrake is run." = "HandBrakeはDVDディスクからのコピー防止機能の削除をサポートしていないことに注意してください。 サードパーティのソフトウェアを使用して、このタスクを実行できます。 この警告は、HandBrakeが起動されるたびに一度だけ表示されます。.";
+
+/* Queue Done Alert -> shut down second button
+   Queue Done Alert -> sleep second button */
+"Preferences…" = "環境設定…";
+
+/* Preview -> progress formatter title */
+"preview" = "プレビュー";
+
+/* Preview -> window title */
+"Preview" = "プレビュー";
+
+/* Preview -> window title format */
+"Preview - %@ %@" = "プレビュー - %1$@ %2$@";
+
+/* Preview -> accessibility label */
+"Preview Image, Size: %zu x %zu, Scale: %.0f%%" = "画像プレビュー、サイズ :%1$zu x %2$zu、スケール :%3$.0f%%";
+
+/* Touch bar */
+"Previews" = "プレビュー";
+
+/* Queue done alert message
+   Queue notification alert message */
+"Put down that cocktail…" = "この混合を置いて...";
+
+/* Preferences -> Output Name Token */
+"Quality/Bitrate" = "品質/スループット";
+
+/* Queue window title */
+"Queue" = "キュー";
+
+/* Queue window title */
+"Queue (%@)" = "キュー (%@)";
+
+/* Quit Alert -> first button */
+"Quit" = "終了";
+
+/* Touch bar */
+"Remaining Time" = "残り時間";
+
+/* HBQueueItemView -> Remove button accessibility label */
+"Remove job" = "タスクを削除";
+
+/* Queue undo action name */
+"Remove Job From Queue" = "キューからタスクを削除する";
+
+/* Queue undo action name */
+"Remove Jobs From Queue" = "キューからタスクを削除する";
+
+/* Toolbar Pause Item */
+"Resume" = "履歴";
+
+/* Queue -> pause/resume men
+   Toolbar Pause Item */
+"Resume Encoding" = "エンコードを再開";
+
+/* HBQueueItemView -> Reveal button accessibility label */
+"Reveal destination in Finder" = "Finderで目的地を明らかにする";
+
+/* Job statistics */
+"Run time:" = "実行時間 :";
+
+/* Picture HUD -> scale button
+   Touch bar */
+"Scale To Screen" = "画面にフィット";
+
+/* Queue Alert -> cancel rip informative text */
+"Select Continue Encoding to dismiss this dialog without making changes." = "変更を行わずにこのウィンドウを閉じるには、エンコードを続行することを選択します.";
+
+/* Preferences -> send to app destination open panel */
+"Select the desired external application" = "目的の外部アプリケーションを選択します";
+
+/* Titles selection sheet -> informative text */
+"Select the titles to add to the queue using the %@ preset:" = "プリセットを使用して、キューに追加するタイトルを選択します %@ :";
+
+/* Notification -> Show in Finder */
+"Show" = "表示";
+
+/* Touch bar */
+"Show Activity Window" = "アクティビティウィンドウを表示";
+
+/* Touch bar */
+"Show Preview Window" = "プレビューウィンドウを表示";
+
+/* Job statistics */
+"Size:" = "カット :";
+
+/* Queue Alert -> cancel rip second button */
+"Skip Current Job" = "進行中の作業をスキップ";
+
+/* Touch bar */
+"Slider" = "カーソル";
+
+/* Preferences -> Output Name Token */
+"Source" = "ソース";
+
+/* Add preset window -> picture setting */
+"Source Maximum" = "ソース最大";
+
+/* Toolbar Start/Stop Item */
+"Start" = "開始";
+
+/* Menu Start/Stop Item
+   Queue -> start/stop menu
+   Toolbar Start/Stop Item */
+"Start Encoding" = "エンコードを開始";
+
+/* Toolbar Start/Stop Item */
+"Start Queue" = "キューを開始する";
+
+/* Touch bar */
+"Start/Stop Encoding" = "エンコードの開始/停止";
+
+/* Job statistics */
+"Started at:" = "始める :";
+
+/* Toolbar Start/Stop Item */
+"Stop" = "やめる";
+
+/* Queue Alert -> cancel rip third button */
+"Stop After Current Job" = "現在のエンコード後に停止";
+
+/* Queue Alert -> cancel rip fourth button */
+"Stop All" = "すべてを止める";
+
+/* Queue -> start/stop menu
+   Toolbar Start/Stop Item */
+"Stop Encoding" = "エンコードを停止";
+
+/* Queue Stop Alert -> stop and remove second button */
+"Stop Encoding and Delete" = "エンコードを停止して削除";
+
+/* Queue Edit Alert -> stop and edit second button */
+"Stop Encoding and Edit" = "エンコードを停止して編集";
+
+/* Queue Edit Alert -> stop and edit message */
+"Stop This Encode and Edit It?" = "エンコードを停止して編集しますか？";
+
+/* Queue Stop Alert -> stop and remove message */
+"Stop This Encode and Remove It?" = "エンコードを停止して削除しますか？";
+
+/* Player HUD -> subtitles menu */
+"Subtitles" = "字幕";
+
+/* Queue Done Alert -> shut down message */
+"The computer will shut down after encoding is done." = "エンコードが完了するとコンピュータがシャットダウンします.";
+
+/* Queue Done Alert -> sleep message */
+"The computer will sleep after encoding is done." = "エンコードが完了すると、コンピュータはスリープ状態になります.";
+
+/* Chapters import -> invalid CSV recovery suggestion */
+"The CSV file is not a valid chapters CSV file." = "このCSVファイルは有効な章ファイルではありません.";
+
+/* Destination same as source alert -> informative text */
+"The destination is the same as the source, you can not overwrite your source file!" = "ソースファイルと同じです。ソースファイルを上書きすることはできません！ ";
+
+/* Chapters import -> invalid CSV line count recovery suggestion */
+"The line count in the chapters CSV file does not match the number of chapters in the movie." = "チャプターCSVファイルの行数がこの映画のチャプター数と一致しません.";
+
+/* Add preset window -> name alert message
+   Rename preset window -> name alert message */
+"The preset name cannot be empty." = "プリセット名は空にできません.";
+
+/* Queue -> Multiple instances alert informative text */
+"The queue will be shared between the instances." = "キューはインスタンス間で共有されます.";
+
+/* File already exists in queue alert -> message */
+"There is already a queue item for this destination." = "このキューにはすでにアイテムがあります. ";
+
+/* Queue -> Multiple instances alert message */
+"There is already an instance of HandBrake running." = "すでに起動されたHandBrakeインスタンスがあります.";
+
+/* Invalid destination alert -> informative text */
+"This is not a valid destination directory!" = "フォルダが無効です！";
+
+/* Preferences -> Output Name Token */
+"Time" = "時間";
+
+/* Preferences -> Output Name Token */
+"Title" = "題名";
+
+/* HBLanguage -> Unknown language */
+"Unknown" = "不明";
+
+/* Video -> Framerate */
+"Variable Framerate" = "可変フレームレート";
+
+/* Invalid destination alert -> message */
+"Warning!" = "警告 !";
+
+/* Queue Alert -> cancel rip message */
+"You are currently encoding. What would you like to do?" = "エンコーディングが進行中です。 何をしたいですか ?";
+
+/* Delete preset alert -> informative text */
+"You can't undo this action." = "このアクションは元に戻せません.";
+
+/* Queue Done Alert -> shut down informative text */
+"You have selected to shut down the computer after encoding. To turn off shut down, go to the HandBrake preferences." = "エンコード後にコンピュータをシャットダウンすることを選択しました。 この選択を変更するには、HandBrake設定に移動します.";
+
+/* Queue Done Alert -> sleep informative text */
+"You have selected to sleep the computer after encoding. To turn off sleeping, go to the HandBrake preferences." = "エンコード後にコンピュータアクティビティを一時停止することを選択しました。 この選択を変更するには、HandBrake設定に移動します.";
+
+/* Queue -> disk almost full alert informative text */
+"You need to make more space available on your destination disk." = "ドライブのスペースを解放する必要があります.";
+
+/* Queue -> disk almost full alert message */
+"Your destination disk is almost full." = "ディスクがほぼいっぱいです.";
+
+/* Queue done notification message */
+"Your encode %@ couldn't be completed." = "あなたの %@ エンコードを完了できませんでした.";
+
+/* Queue done notification message */
+"Your encode %@ is done!" = "あなたの %@ エンコードが完了しました !";
+
+/* Queue done alert informative text */
+"Your HandBrake queue is done!" = "HandBrakeキューが終了しました !";
+
+/* Queue Edit Alert -> stop and edit informative text
+   Queue Stop Alert -> stop and remove informative text */
+"Your movie will be lost if you don't continue encoding." = "エンコードを続行しないと、ムービーは失われます.";
+

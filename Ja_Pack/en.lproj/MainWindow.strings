@@ -1,0 +1,276 @@
+/* Class = "NSTabViewItem"; label = "Filters"; ObjectID = "0UB-bG-kwS"; */
+"0UB-bG-kwS.label" = "フィルター";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Save New Preset…"; ObjectID = "2vD-zN-YMe"; */
+"2vD-zN-YMe.ibShadowedToolTip" = "新しいプリセットを保存します";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = " "; ObjectID = "3Gk-ma-r2w"; */
+"3Gk-ma-r2w.ibShadowedIsNilPlaceholder" = "";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Title to scan."; ObjectID = "3w9-Iu-3u2"; */
+"3w9-Iu-3u2.ibShadowedToolTip" = "スキャンするタイトル.";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "6E4-AG-PEh"; */
+"6E4-AG-PEh.title" = "0";
+
+/* Class = "NSToolbarItem"; label = "Open Source"; ObjectID = "8r8-nZ-dYs"; */
+"8r8-nZ-dYs.label" = "ソースを開く";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Open Source"; ObjectID = "8r8-nZ-dYs"; */
+"8r8-nZ-dYs.paletteLabel" = "ソースを開く";
+
+/* Class = "NSToolbarItem"; toolTip = "Open Source"; ObjectID = "8r8-nZ-dYs"; */
+"8r8-nZ-dYs.toolTip" = "ソースを開く";
+
+/* Class = "NSWindow"; title = "HandBrake"; ObjectID = "21"; */
+"21.title" = "HandBrake";
+
+/* Class = "NSToolbarItem"; label = "Add Titles To Queue"; ObjectID = "38K-hd-P5J"; */
+"38K-hd-P5J.label" = "キューにタイトルを追加する";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Add Titles To Queue"; ObjectID = "38K-hd-P5J"; */
+"38K-hd-P5J.paletteLabel" = "キューにタイトルを追加する";
+
+/* Class = "NSToolbarItem"; toolTip = "Add Titles To Queue"; ObjectID = "38K-hd-P5J"; */
+"38K-hd-P5J.toolTip" = "キューにタイトルを追加する";
+
+/* Class = "NSMenuItem"; title = "Add Titles To Queue…"; ObjectID = "046-kc-MnL"; */
+"046-kc-MnL.title" = "キューにタイトルを追加する…";
+
+/* Class = "NSTabViewItem"; label = "Audio"; ObjectID = "1475"; */
+"1475.label" = "オーディオ";
+
+/* Class = "NSTabViewItem"; label = "Video"; ObjectID = "1477"; */
+"1477.label" = "ビデオ";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Source file"; ObjectID = "1538"; */
+"1538.ibExternalAccessibilityDescription" = "ソースファイル";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Source file name."; ObjectID = "1539"; */
+"1539.ibShadowedToolTip" = "ソースファイル名.";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Title, or video clip, to encode. The longest title is selected by default.\n\nBlu-ray and DVD sources often have multiple titles, the longest of which is typically the main feature."; ObjectID = "1541"; */
+"1541.ibShadowedToolTip" = "エンコードするタイトルまたはビデオ。 デフォルトでは、最も長いタイトルが選択されています\n \nBlu-rayとDVDには複数のタイトルが付いていることがよくあります。 最長は通常メインタイトルです.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1542"; */
+"1542.title" = "その他";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Start Chapter"; ObjectID = "1545"; */
+"1545.ibExternalAccessibilityDescription" = "初めの章";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "First chapter to encode."; ObjectID = "1545"; */
+"1545.ibShadowedToolTip" = "エンコードする最初の章.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1546"; */
+"1546.title" = "その他";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "End Chapter"; ObjectID = "1548"; */
+"1548.ibExternalAccessibilityDescription" = "チャプターを終了";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Last chapter to encode."; ObjectID = "1548"; */
+"1548.ibShadowedToolTip" = "エンコードする最後の章.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1549"; */
+"1549.title" = "その他";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Duration"; ObjectID = "1554"; */
+"1554.ibExternalAccessibilityDescription" = "時間";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Duration of the selected source range in Hours:Minutes:Seconds."; ObjectID = "1554"; */
+"1554.ibShadowedToolTip" = "選択したソースの継続時間（時間：分：秒）";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Output filename"; ObjectID = "1561"; */
+"1561.ibExternalAccessibilityDescription" = "出力のファイル名";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "File name. This is what your new video will be named."; ObjectID = "1561"; */
+"1561.ibShadowedToolTip" = "ファイル名。 新しい動画には次のような名前が付けられます.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Browse Destination"; ObjectID = "1562"; */
+"1562.ibExternalAccessibilityDescription" = "目的地を閲覧";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Browse to select a new destination path for your encode."; ObjectID = "1562"; */
+"1562.ibShadowedToolTip" = "参照して、エンコーディングの新しい宛先を選択します.";
+
+/* Class = "NSTabViewItem"; label = "Chapters"; ObjectID = "1989"; */
+"1989.label" = "チャプター";
+
+/* Class = "NSTextFieldCell"; title = "DO NOT TRANSLATE THIS NIB FILE"; ObjectID = "4846"; */
+"4846.title" = "このNIBファイルを翻訳しないでください";
+
+/* Class = "NSTextFieldCell"; title = "Source:"; ObjectID = "4905"; */
+"4905.title" = "ソース :";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "4907"; */
+"4907.title" = "タイトル :";
+
+/* Class = "NSTextFieldCell"; title = "Save As:"; ObjectID = "4913"; */
+"4913.title" = "名前を付けて保存 :";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "4914"; */
+"4914.title" = "時間 :";
+
+/* Class = "NSTextFieldCell"; title = "00:00:00"; ObjectID = "4915"; */
+"4915.title" = "00:00:00";
+
+/* Class = "NSButtonCell"; title = "Browse…"; ObjectID = "4920"; */
+"4920.title" = "ブラウズ…";
+
+/* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "4923"; */
+"4923.title" = "プリセット :";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Video angle to encode. Only applicable to multi-angle DVD and Blu-ray."; ObjectID = "5181"; */
+"5181.ibShadowedToolTip" = "エンコードするビデオアングル。 マルチアングルDVDおよびBlu-rayにのみ適用されます.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5183"; */
+"5183.title" = "その他";
+
+/* Class = "NSTextFieldCell"; title = "Angle:"; ObjectID = "5185"; */
+"5185.title" = "アングル :";
+
+/* Class = "NSTabViewItem"; label = "Subtitles"; ObjectID = "5194"; */
+"5194.label" = "字幕";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Start time in seconds"; ObjectID = "5491"; */
+"5491.ibExternalAccessibilityDescription" = "秒単位の起動時間";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "First second to encode."; ObjectID = "5491"; */
+"5491.ibShadowedToolTip" = "エンコードする最初の2番目.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "End time in seconds"; ObjectID = "5493"; */
+"5493.ibExternalAccessibilityDescription" = "秒単位の終了時間";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Last second to encode."; ObjectID = "5493"; */
+"5493.ibShadowedToolTip" = "エンコードする最後の1秒.";
+
+/* Class = "NSTextFieldCell"; title = "–"; ObjectID = "5506"; */
+"5506.title" = "–";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Range Selection"; ObjectID = "5513"; */
+"5513.ibExternalAccessibilityDescription" = "範囲選択";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Source range selection. By default, all chapters are selected and the entire source is encoded."; ObjectID = "5513"; */
+"5513.ibShadowedToolTip" = "ソース範囲の選択。 デフォルトでは、すべてのチャプターが選択され、ソースは完全にエンコードされています.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5515"; */
+"5515.title" = "その他";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Start time in frames"; ObjectID = "5521"; */
+"5521.ibExternalAccessibilityDescription" = "写真で開始時間";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "First frame to encode."; ObjectID = "5521"; */
+"5521.ibShadowedToolTip" = "エンコードする最初の画像.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "End time in frames"; ObjectID = "5523"; */
+"5523.ibExternalAccessibilityDescription" = "写真で終了時間";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Last frame to encode."; ObjectID = "5523"; */
+"5523.ibShadowedToolTip" = "エンコードする最後の画像.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reload the encoding settings for the currently selected preset. Modifications will be discarded."; ObjectID = "AhR-pK-Oz4"; */
+"AhR-pK-Oz4.ibShadowedToolTip" = "現在のプリセットのデフォルト設定を再ロードします。 変更は失われます.";
+
+/* Class = "NSTabViewItem"; label = "Summary"; ObjectID = "BA0-eg-2Ka"; */
+"BA0-eg-2Ka.label" = "概要";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Preset selection"; ObjectID = "bWH-Lp-mKY"; */
+"bWH-Lp-mKY.ibExternalAccessibilityDescription" = "プリセット選択";
+
+/* Class = "NSToolbarItem"; label = "Start"; ObjectID = "byg-kj-sEM"; */
+"byg-kj-sEM.label" = "開始";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Start Encoding"; ObjectID = "byg-kj-sEM"; */
+"byg-kj-sEM.paletteLabel" = "エンコードを開始";
+
+/* Class = "NSToolbarItem"; toolTip = "Start Encoding"; ObjectID = "byg-kj-sEM"; */
+"byg-kj-sEM.toolTip" = "エンコードを開始";
+
+/* Class = "NSButtonCell"; title = "Reload"; ObjectID = "cgS-BU-Nfd"; */
+"cgS-BU-Nfd.title" = "リロード";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "d0E-xw-bxh"; */
+"d0E-xw-bxh.title" = "ボックス";
+
+/* Class = "NSToolbarItem"; label = "Preview"; ObjectID = "dK4-jt-v4K"; */
+"dK4-jt-v4K.label" = "プレビュー";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Show Preview Window"; ObjectID = "dK4-jt-v4K"; */
+"dK4-jt-v4K.paletteLabel" = "プレビューウィンドウを表示";
+
+/* Class = "NSToolbarItem"; toolTip = "Show Preview Window"; ObjectID = "dK4-jt-v4K"; */
+"dK4-jt-v4K.toolTip" = "プレビューウィンドウを表示";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Scan only the specified title instead of all titles."; ObjectID = "DN4-48-aOI"; */
+"DN4-48-aOI.ibShadowedToolTip" = "すべてのタイトルから指定したタイトルのみをスキャンします.";
+
+/* Class = "NSToolbarItem"; label = "Add To Queue"; ObjectID = "DZZ-Fe-wjw"; */
+"DZZ-Fe-wjw.label" = "キューに追加する";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Add To Queue"; ObjectID = "DZZ-Fe-wjw"; */
+"DZZ-Fe-wjw.paletteLabel" = "キューに追加する";
+
+/* Class = "NSToolbarItem"; toolTip = "Add To Queue"; ObjectID = "DZZ-Fe-wjw"; */
+"DZZ-Fe-wjw.toolTip" = "キューに追加する";
+
+/* Class = "NSTabViewItem"; label = "Dimensions"; ObjectID = "eij-Sn-QmJ"; */
+"eij-Sn-QmJ.label" = "サイズ";
+
+/* Class = "NSButtonCell"; title = "Scan only title:"; ObjectID = "eQA-t2-FcV"; */
+"eQA-t2-FcV.title" = "タイトルのみをスキャン :";
+
+/* Class = "NSToolbarItem"; label = "Queue"; ObjectID = "HCx-ku-nF7"; */
+"HCx-ku-nF7.label" = "キューを表示";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Show Queue Window"; ObjectID = "HCx-ku-nF7"; */
+"HCx-ku-nF7.paletteLabel" = "キューウィンドウを表示";
+
+/* Class = "NSToolbarItem"; toolTip = "Show Queue Window"; ObjectID = "HCx-ku-nF7"; */
+"HCx-ku-nF7.toolTip" = "キューウィンドウを表示";
+
+/* Class = "NSMenuItem"; title = "Add All Titles To Queue"; ObjectID = "INL-y9-Gwp"; */
+"INL-y9-Gwp.title" = "すべてのタイトルをキューに追加します";
+
+/* Class = "NSButtonCell"; title = "Save New Preset…"; ObjectID = "IOU-3L-nvB"; */
+"IOU-3L-nvB.title" = "新しいプリセットを保存します";
+
+/* Class = "NSTextFieldCell"; title = "Range:"; ObjectID = "IxV-PW-oYh"; */
+"IxV-PW-oYh.title" = "範囲 :";
+
+/* Class = "NSMenuItem"; title = "Add Title To Queue"; ObjectID = "L8z-c6-E1u"; */
+"L8z-c6-E1u.title" = "キューにタイトルを追加";
+
+/* Class = "NSMenuItem"; title = "Selected Preset"; ObjectID = "OYP-3T-FnA"; */
+"OYP-3T-FnA.title" = "選択したプリセット";
+
+/* Class = "NSToolbarItem"; label = "Activity"; ObjectID = "p7Q-L3-zcW"; */
+"p7Q-L3-zcW.label" = "アクティビティ";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Show Activity Window"; ObjectID = "p7Q-L3-zcW"; */
+"p7Q-L3-zcW.paletteLabel" = "アクティビティウィンドウを表示";
+
+/* Class = "NSToolbarItem"; toolTip = "Show Activity Window"; ObjectID = "p7Q-L3-zcW"; */
+"p7Q-L3-zcW.toolTip" = "アクティビティウィンドウを表示";
+
+/* Class = "NSPathControl"; ibExternalAccessibilityDescription = "Destination folder path"; ObjectID = "PJi-21-hie"; */
+"PJi-21-hie.ibExternalAccessibilityDescription" = "宛先フォルダーのパス";
+
+/* Class = "NSToolbarItem"; label = "Presets"; ObjectID = "qhv-9l-2FH"; */
+"qhv-9l-2FH.label" = "プリセット";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Show Presets List"; ObjectID = "qhv-9l-2FH"; */
+"qhv-9l-2FH.paletteLabel" = "プリセットのリストを表示";
+
+/* Class = "NSToolbarItem"; toolTip = "Show Presets List"; ObjectID = "qhv-9l-2FH"; */
+"qhv-9l-2FH.toolTip" = "プリセットのリストを表示";
+
+/* Class = "NSTextFieldCell"; title = "To:"; ObjectID = "rfK-nQ-Aq2"; */
+"rfK-nQ-Aq2.title" = "保存先 :";
+
+/* Class = "NSToolbarItem"; label = "Pause"; ObjectID = "wTQ-KF-5KW"; */
+"wTQ-KF-5KW.label" = "一時停止";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Pause Encoding"; ObjectID = "wTQ-KF-5KW"; */
+"wTQ-KF-5KW.paletteLabel" = "エンコードを一時停止";
+
+/* Class = "NSToolbarItem"; toolTip = "Pause Encoding"; ObjectID = "wTQ-KF-5KW"; */
+"wTQ-KF-5KW.toolTip" = "エンコードを一時停止";
+

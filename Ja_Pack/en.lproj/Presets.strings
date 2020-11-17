@@ -1,0 +1,51 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4tC-UE-40G"; */
+"4tC-UE-40G.title" = "テキストセル";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Delete Preset"; ObjectID = "b3V-8w-euU"; */
+"b3V-8w-euU.ibExternalAccessibilityDescription" = "プリセットをクリア";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete the selected preset."; ObjectID = "b3V-8w-euU"; */
+"b3V-8w-euU.ibShadowedToolTip" = "選択したプリセットをクリアします.";
+
+/* Class = "NSMenuItem"; title = "Reset Official Presets"; ObjectID = "cm5-Kl-dB3"; */
+"cm5-Kl-dB3.title" = "公式プリセットをリセット";
+
+/* Class = "NSMenuItem"; title = "Make Default"; ObjectID = "D2t-YG-Frn"; */
+"D2t-YG-Frn.title" = "デフォルトにする";
+
+/* Class = "NSMenuItem"; title = "New Category"; ObjectID = "Io0-Vm-Qez"; */
+"Io0-Vm-Qez.title" = "新たなカテゴリー";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "New Preset"; ObjectID = "kfi-wq-mgV"; */
+"kfi-wq-mgV.ibExternalAccessibilityDescription" = "新しいプリセット";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Create a new custom preset based on the currently selected settings."; ObjectID = "kfi-wq-mgV"; */
+"kfi-wq-mgV.ibShadowedToolTip" = "選択した設定から新しいカスタムプリセットを作成します.";
+
+/* Class = "NSMenu"; title = "Presets Action Menu"; ObjectID = "LQk-kD-5sj"; */
+"LQk-kD-5sj.title" = "アクションのプリセットメニュー";
+
+/* Class = "NSMenuItem"; title = "Import…"; ObjectID = "LUl-ag-Iu6"; */
+"LUl-ag-Iu6.title" = "インポート…";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "oBC-Nh-TwB"; */
+"oBC-Nh-TwB.title" = "テーブルセルの表示 ";
+
+/* Class = "NSTextFieldCell"; title = "Presets"; ObjectID = "r4V-6L-SO8"; */
+"r4V-6L-SO8.title" = "プリセット";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Presets"; ObjectID = "uad-bt-uKD"; */
+"uad-bt-uKD.ibExternalAccessibilityDescription" = "プリセット";
+
+/* Class = "NSScrollView"; ibShadowedToolTip = "Presets are groups of encode settings tailored for specific scenarios. Select the one closest matching your intent.\n\nOverrides all encode settings. Settings may be further adjusted after selecting a preset."; ObjectID = "uad-bt-uKD"; */
+"uad-bt-uKD.ibShadowedToolTip" = "プリセットは、特定のシナリオに固有の設定のコレクションです。 目標に最も近いものを選択します。\n \nすべてのエンコーディング設定を置き換えます。 プリセットを選択した後で、微調整が可能です。.";
+
+/* Class = "NSMenuItem"; title = "Export…"; ObjectID = "xEQ-Un-J0n"; */
+"xEQ-Un-J0n.title" = "書き出す…";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Additional Options"; ObjectID = "Ybq-Zt-sta"; */
+"Ybq-Zt-sta.ibExternalAccessibilityDescription" = "追加オプション";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Show additional options."; ObjectID = "Ybq-Zt-sta"; */
+"Ybq-Zt-sta.ibShadowedToolTip" = "追加オプションを表示";
+
