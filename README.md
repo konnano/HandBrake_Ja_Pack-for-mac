@@ -1,7 +1,9 @@
-# HandBrake_Ja_Pack-for-mac
-
 HandBrake日本語化パック Mac用
 
-click.commandをダブルクリックで日本語化されます
+HandBrake.appインストール後そのまま起動してキャッシュ作成させて下さい
 
-Version 1.3.3 対応
+いきなりclick.commandを実行するとHandBrake.app壊れるようです
+
+一旦HandBrake.app起動後click.commandを実行で日本語化してください
+
+Version 1.4 対応
