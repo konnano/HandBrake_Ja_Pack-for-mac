@@ -19,5 +19,5 @@ then
  fi
 
 else
-echo Ja_Pack内でクリックして下さい。
+echo "\033[31m Ja_Pack内でクリックして下さい。\033[37m"
 fi
