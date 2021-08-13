@@ -5,5 +5,3 @@ HandBrake.appインストール後そのまま起動してキャッシュ作成�
 いきなりclick.commandを実行するとHandBrake.app壊れるようです
 
 一旦HandBrake.app起動後click.commandを実行で日本語化してください
-
-Version 1.4 対応
