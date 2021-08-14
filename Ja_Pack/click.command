@@ -5,17 +5,16 @@ cd ./en.lproj 2>/dev/null
 path=`pwd|rev|cut -c 1-16|rev`
 current='Ja_Pack/en.lproj'
 
-if [ $path = $current ]
-then
+if [ $path = $current ];then
 
- if [ -d /Applications/HandBrake.app/Contents/Resources/en.lproj/ ]
+ if [ -d /Applications/HandBrake.app/Contents/Resources/en.lproj ]
  then
   cp -R . /Applications/HandBrake.app/Contents/Resources/en.lproj/.
- fi
-
- if [ -d /Applications/HandBrake.app/Contents/Resources/English.lproj/ ]
+ elif [ -d /Applications/HandBrake.app/Contents/Resources/English.lproj ]
  then
   cp -R . /Applications/HandBrake.app/Contents/Resources/English.lproj/.
+ else
+  echo "\033[31m /ApplicationフォルダーにHandbreak.appがありません。\033[37m"
  fi
 
 else
