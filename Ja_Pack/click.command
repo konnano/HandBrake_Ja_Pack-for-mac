@@ -14,9 +14,9 @@ if [ $path = $current ];then
  then
   cp -R . /Applications/HandBrake.app/Contents/Resources/English.lproj/.
  else
-  echo "\033[31m /ApplicationフォルダーにHandbreak.appがありません。\033[37m"
+  echo "\033[31m /ApplicationフォルダーにHandbreak.appがありません。\033[0m"
  fi
 
 else
-echo "\033[31m Ja_Pack内でクリックして下さい。\033[37m"
+echo "\033[31m Ja_Pack内でクリックして下さい。\033[0m"
 fi
